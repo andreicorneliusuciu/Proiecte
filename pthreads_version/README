@@ -1,0 +1,2 @@
+
+./proiect_app_serial tests/in/mandelbrot2.in out.ppm
